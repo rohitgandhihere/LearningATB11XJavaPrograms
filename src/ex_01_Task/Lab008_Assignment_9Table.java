@@ -1,4 +1,4 @@
-package ex_01_JavaBasic_part2;
+package ex_01_Task;
 
 public class Lab008_Assignment_9Table {
     public static void main(String[] args) {
