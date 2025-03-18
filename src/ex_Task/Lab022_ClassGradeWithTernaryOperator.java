@@ -1,4 +1,4 @@
-package ex_01_Task;
+package ex_Task;
 
 public class Lab022_ClassGradeWithTernaryOperator {
 
