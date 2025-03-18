@@ -1,6 +1,6 @@
 package ex_Task;
 
-public class Assignment_CubeRoot {
+public class Task001_CubeRoot {
     public static void main(String[] args) {
 
         int X = 10, Y = 10, Z = 10;

@@ -1,6 +1,6 @@
 package ex_Task;
 
-public class Lab008_Assignment_9Table {
+public class Task002_9Table {
     public static void main(String[] args) {
 
         int i=9, count=1;

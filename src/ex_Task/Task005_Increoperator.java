@@ -1,6 +1,6 @@
 package ex_Task;
 
-public class Mar14_Assignment_Increoperator {
+public class Task005_Increoperator {
     public static void main(String[] args) {
             int a = 10;
             System.out.println(++a + a++ + a++);

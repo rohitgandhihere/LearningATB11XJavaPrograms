@@ -1,7 +1,7 @@
 package ex_Task;
 import java.util.Scanner;
 
-public class Mar14_Assignment_Triangle_Class {
+public class Task006_Triangle_Class {
     public static void main(String[] args) {
         // ✅ Triangle Classifier:
         //

@@ -4,7 +4,7 @@ package ex_Task;
 
 import java.util.Scanner;
 
-public class Mar14_AssignmentCliOptions {
+public class Task007_CliOptions {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

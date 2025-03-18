@@ -1,6 +1,6 @@
 package ex_Task;
 
-public class Lab022_ClassGradeWithTernaryOperator {
+public class Task003_Grade_With_Ternaryoperator {
 
     public static void main(String[] args) {
 
