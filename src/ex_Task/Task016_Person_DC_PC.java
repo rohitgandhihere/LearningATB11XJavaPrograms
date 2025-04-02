@@ -11,9 +11,10 @@ public class Task016_Person_DC_PC {
          person.eat();
 
         Person p1 = new Person("Prachi",11,"Mumbai hhftre",123322131, false);
-
         p1.eat();
 
+        Person p2 = new Person("Anaya", 4);
+        p2.sleep();
 
     }
 }
@@ -30,7 +31,7 @@ public class Task016_Person_DC_PC {
         }
 
         void sleep() {
-            System.out.println("Sleep");
+            System.out.println(this.name + " is Sleeping");
         }
 
         void walk() {
@@ -67,4 +68,10 @@ public class Task016_Person_DC_PC {
             this.isMale = isMale;
 
         }
+        public Person(String name, int age){
+
+            this.name=name;
+            this.age=age;
+        }
+
     }
