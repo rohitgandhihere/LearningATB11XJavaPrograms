@@ -1,6 +1,6 @@
 package ex_31_Collection_Framework_DSA_LIST;
 
-public class Lab_31_List {
+public class Lab_31_7_List {
     public static void main(String[] args) {
 
         Integer[] arr= new Integer[5];

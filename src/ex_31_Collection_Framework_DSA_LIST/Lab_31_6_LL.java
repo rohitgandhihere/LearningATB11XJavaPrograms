@@ -2,7 +2,7 @@ package ex_31_Collection_Framework_DSA_LIST;
 
 import java.util.LinkedList;
 
-public class Lab_31_5_LL {
+public class Lab_31_6_LL {
 
     public static void main(String[] args) {
 
